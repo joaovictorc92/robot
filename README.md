@@ -21,7 +21,7 @@ Escreva um programa que permita aos engenheiros da NASA enviar comandos para o r
 onde ele se encontra. Os engenheiros irão rodar testes no seu software para garantir que ele se
 comporta da forma esperada, antes de enviar o robô para Marte.
 
-<h3>Requisitos do desafio <h3>
+<h3>Requisitos do desafio </h3>
   <ul> 
 <li> O terreno deverá ser iniciado com 5x5 posições; </li>
 <li>  O robô inicia na coordenada (0,0,N); </li>
